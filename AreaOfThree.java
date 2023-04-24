@@ -6,6 +6,7 @@ public class AreaOfThree
         int squareSide = 8;
 
         System.out.println("Area of rectangle: " + getArea(rectangleLength, rectangleWidth));
+        //to print 
 
         System.out.println("Area of square: " + getArea(squareSide));
     }
