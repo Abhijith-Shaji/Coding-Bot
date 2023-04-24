@@ -9,6 +9,7 @@ public class AreaOfThree
         //to print 
 
         System.out.println("Area of square: " + getArea(squareSide));
+        System.out.println("Area obtained");
     }
 
 
